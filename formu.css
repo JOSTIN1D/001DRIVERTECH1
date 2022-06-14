@@ -1,0 +1,71 @@
+
+  a{
+    text-decoration: none;
+    color: #0992C8;
+  }
+  
+  header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #183778;
+    padding: 10px;
+  }
+  
+  .logo{
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img{
+    height: 20px;
+    margin-right: 20px;
+    border-radius: 38%;    
+  }
+  
+   a{
+    font-weight: 500;
+    padding-right: 10px;
+  }
+  
+  nav a:hover{
+    color: #FF5E0B;
+    
+  }
+  
+  .cointener-alnl {
+    flex-direction: column;
+    right: auto;
+  }
+  
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    
+    background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
+}
+
+.padre{
+    padding: 20px;
+    margin-left: 200PX;
+    margin-right: 200PX;
+    text-align: center;
+    background-color: rgb(226, 73, 26);
+}
+
+input{
+    background-color: rgb(250, 215, 42);
+}
+
+textarea{
+    background-color: bisque;
+}
+h1{
+    margin: 20px;
+    border-bottom: 2px solid coral;
+    color: rgb(197, 155, 41);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
